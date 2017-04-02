@@ -1,0 +1,17 @@
+{
+  "name": "huawei-b315",
+  "version": "1.0.0",
+  "description": "Huawei B315 API client",
+  "main": "huawei-b315.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christoph Gysin <christoph.gysin@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "es6-promisify": "^5.0.0",
+    "request": "^2.81.0",
+    "request-promise-native": "^1.0.3",
+    "xml2js": "^0.4.17"
+  }
+}
